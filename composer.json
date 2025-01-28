@@ -10,7 +10,10 @@
         }
     ],
     "homepage": "https://github.com/rapidely/core",
-    "keywords": ["Laravel", "Core"],
+    "keywords": [
+        "Laravel",
+        "Core"
+    ],
     "require": {
         "illuminate/support": "~9"
     },
