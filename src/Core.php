@@ -4,5 +4,12 @@ namespace Rapidely\Core;
 
 class Core
 {
-    // Build wonderful things
+    public function tester()
+    {
+      dd("Ceci est un test")
+    }
+
+    public function getRequest() {
+      return "get-request";
+    }
 }
